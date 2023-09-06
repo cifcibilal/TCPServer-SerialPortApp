@@ -2,8 +2,7 @@
 # SerialPort + TCP/Server + TCP/Client
 ## Geliştirici
 - Projenin geliştiricisi: Bilal CIFCI
-- E-posta: cifci.bilal@outlook.com
-## tab'lar arasi gecis yaparak uygulamayi kullanabilirsiniz. SerialPort tab'inda Butonlar kullanilarak portlar arasi bağlanti baslatabilir ardindan mesaj gonderebilirsiniz. Server bolumunde TCP protokolu ile server baslatip, client uygulamasiyla ag uzerinden mesajlasabilirsiniz.
+- ## tab'lar arasi gecis yaparak uygulamayi kullanabilirsiniz. SerialPort tab'inda Butonlar kullanilarak portlar arasi bağlanti baslatabilir ardindan mesaj gonderebilirsiniz. Server bolumunde TCP protokolu ile server baslatip, client uygulamasiyla ag uzerinden mesajlasabilirsiniz.
 ## Surum Gecmisi
 ### Major version 1.0
 ### Minor version 1.0
